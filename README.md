@@ -6,7 +6,7 @@
   <img align="center" alt="wellton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="wellton-java" height="35" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="wellton-postsql" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="right" alt="wellton-pic" height="150" style="border-radius:50px;"">
+  
 </div>
   
   ##
